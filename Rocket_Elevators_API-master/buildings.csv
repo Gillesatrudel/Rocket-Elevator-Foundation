@@ -1,0 +1,24 @@
+User ID,StreetAddress,Adm Name,Adm Email,Adm Phone,TechnicianName,TechnicianEmail,Technician Phone,Created At,Updated At,Building Name
+40,586 Eliot Park,Brian Moore,BrianDMoore@superrito.com,416-448-7257,JP Boutin,jp@balactis.com,450-988-8012,10/5/2018 13:17,10/5/2018 13:17,Opal Building
+44,38 Del Sol Avenue,Fred Cade,FredLCade@fleckens.hu,416-813-7155,Nicolas Genest,nicolas.genest@codeboxx.biz,780-708-4526,10/5/2018 19:07,10/5/2018 19:07,Azur Tower
+48,665 Gulseth Alley,James Bradley,JamesDBradley@dayrep.com,647-405-8987,Philippe Bouillon,philippe.bouillon@codeboxx.biz,514-812-2259,10/5/2018 19:08,10/5/2018 19:08,Complexe Matrix
+50,56769 Armistice Point,Frances Levering,FrancesJLevering@dayrep.com,705-439-3011,Felix-Antoine Paradis,felix-antoine.paradis@codeboxx.biz,403-996-7048,10/5/2018 19:09,10/5/2018 19:09,Centre Spark
+52,1 Moland Junction,Moses Rice,MosesBRice@jourrapide.com,819-672-0885,Remi Gagnon,remi.gagnon@codeboxx.biz,905-927-6889,10/5/2018 19:10,10/5/2018 19:10,Ssoot Center
+54,30 Oakridge Terrace,Frieda Lopez,FriedaRLopez@cuvox.de,403-882-6700,Mathieu LeFrançois,mathieu.lefrancois@codeboxx.biz,780-205-2041,10/5/2018 19:11,10/5/2018 19:11,Crystal Building
+56,06 Tony Terrace,David Arnold,DavidNArnold@cuvox.de,519-818-3283,Nicolas Pineault,nicolas.pineault@codeboxx.biz,450-701-8779,10/5/2018 19:11,10/5/2018 19:11,Johnson Tower
+58,7 Gateway Hill,Dana Tracey,DanaWTracey@dayrep.com,519-522-5600,Serge Savoie,serge.savoie@codeboxx.biz,604-607-6080,10/5/2018 19:12,10/5/2018 19:12,Complexe Azuro
+60,2 Randy Hill,Richard Branscum,RichardNBranscum@teleworm.us,613-560-3694,Nadya Fortier,nadya.fortier@codeboxx.biz,416-391-3744,10/5/2018 19:13,10/5/2018 19:13,Centre Desjardins
+62,06 Fair Oaks Place,Margaret Porto,MargaretFPorto@teleworm.us,613-637-9901,Yann Dore,yanndo666@gmail.com,604-790-3420,10/5/2018 20:38,10/5/2018 20:38,Palace Center
+64,490 Mockingbird Trail,Cynthia Garza,CynthiaGGarza@rhyta.com,604-762-6976,Stephane Bruyere,sbruyere@ypotek.com,519-364-7537,10/5/2018 20:40,10/5/2018 20:40,Rose Building
+66,51 Texas Way,Mary Ousley,MaryDOusley@superrito.com,780-909-7448,Gilles Trudel,gillesatrudel@gmail.com,519-341-4917,10/5/2018 20:41,10/5/2018 20:41,Trump Tower
+68,89 Brickson Park Park,Mary Lawson,MaryJLawson@gustr.com,519-777-8574,Laura Zuviri,liz_15xz@hotmail.com,250-740-7491,10/5/2018 20:42,10/5/2018 20:42,Complexe razulo
+70,83039 Myrtle Road,Royce Kirk,RoyceKKirk@gustr.com,514-482-3984,Mathieu Houde,mathieu.houde@live.ca,780-354-0176,10/5/2018 20:44,10/5/2018 20:44,Centre Ford
+72,45125 Center Alley,Dennis Moore,DennisKMoore@fleckens.hu,514-773-0477,JP Boutin,jp@balactis.com,514-805-6746,10/6/2018 13:17,10/6/2018 13:17,Serulo Center
+74,86 Buell Street,Seymour Pena,SeymourJPena@einrot.com,780-418-4824,Nicolas Genest,nicolas.genest@codeboxx.biz,613-571-7158,10/6/2018 19:07,10/6/2018 19:07,Centre Travis
+76,936 Fulton Alley,Ruby Evans,RubyTEvans@teleworm.us,416-720-4586,Philippe Bouillon,philippe.bouillon@codeboxx.biz,250-878-1883,10/6/2018 19:08,10/6/2018 19:08,Mickael Center
+78,299 Armistice Park,Joaquin Rounds,JoaquinVRounds@fleckens.hu,819-737-5756,Felix-Antoine Paradis,felix-antoine.paradis@codeboxx.biz,416-827-4859,11/6/2018 19:09,11/6/2018 19:09,BlueShark Building
+80,0 Hermina Street,John Avila,JohnEAvila@cuvox.de,519-241-1349,Remi Gagnon,remi.gagnon@codeboxx.biz,604-773-8802,11/6/2018 19:10,11/6/2018 19:10,Misery Tower
+82,026 Golf View Alley,George Fitzgerald,GeorgeTFitzgerald@cuvox.de,416-554-1307,Nadya Fortier,nadya.fortier@codeboxx.biz,416-391-3744,10/5/2018 19:13,10/5/2018 19:13,Complexe AfterNight
+84,59038 Hintze Place,James Hernandez,JamesSHernandez@jourrapide.com,905-733-7157,Yann Dore,yanndo666@gmail.com,604-790-3420,10/5/2018 20:38,10/5/2018 20:38,Centre Brakery
+86,36 Hayes Pass,Anna Grogan,AnnaRGrogan@gustr.com,416-468-9155,Stephane Bruyere,sbruyere@ypotek.com,519-364-7537,10/5/2018 20:40,10/5/2018 20:40,Molson Center
+88,8850 Northfield Lane,Boyd Hunt,BoydJHunt@dayrep.com,613-951-5504,Gilles Trudel,gillesatrudel@gmail.com,519-341-4917,10/5/2018 20:41,10/5/2018 20:41,Shiny Tower

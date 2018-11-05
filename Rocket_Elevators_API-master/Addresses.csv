@@ -1,0 +1,251 @@
+Address Type,Status,Entity,StreetAddress,Suite or App,City,State,Country,ZipCode,Notes
+Shipping,Active,Customer,36 Maywood Parkway,-,Mont-Tremblant,Québec,Canada,J8E,-
+Billing,Active,Building,586 Eliot Park,-,Daveluyville,Québec,Canada,R3P,-
+Home,Active,Customer,2237 Golden Leaf Junction,-,Victoriaville,Québec,Canada,G6T,-
+Business,Active,Building,38 Del Sol Avenue,-,Matagami,Québec,Canada,N2M,-
+Business,Active,Customer,429 Walton Parkway,-,Joliette,Québec,Canada,J6E,-
+Home,Active,Building,665 Gulseth Alley,-,Vaudreuil-Dorion,Québec,Canada,J7W,-
+Business,Active,Customer,9 Northland Alley,-,Saint-Raymond,Québec,Canada,G3L,-
+Home,Active,Building,56769 Armistice Point,-,Lac-Mégantic,Québec,Canada,G6B,-
+Billing,Active,Customer,1690 Iowa Place,-,Sainte-Martine,Québec,Canada,A1C,-
+Home,Active,Building,1 Moland Junction,-,Senneterre,Québec,Canada,L0P,-
+Shipping,Active,Customer,174 Norway Maple Park,-,Lévis,Québec,Canada,G6W,-
+Business,Active,Building,30 Oakridge Terrace,-,Ferme-Neuve,Québec,Canada,V5Y,-
+Home,Active,Customer,811 Messerschmidt Park,-,Saint-Tite,Québec,Canada,G8B,-
+Business,Active,Building,06 Tony Terrace,-,Lachute,Québec,Canada,J8H,-
+Shipping,Active,Customer,325 Tennyson Center,-,Sherbrooke,Québec,Canada,J1K,-
+Billing,Active,Building,7 Gateway Hill,-,Albanel,Québec,Canada,G8M,-
+Business,Active,Customer,0 Logan Junction,-,Saint-Félicien,Québec,Canada,G8K,-
+Business,Active,Building,2 Randy Hill,-,Lac-Mégantic,Québec,Canada,G6B,-
+Billing,Active,Customer,60 Sundown Park,-,Port-Cartier,Québec,Canada,G5B,-
+Home,Active,Building,06 Fair Oaks Place,-,Mascouche,Québec,Canada,J6W,-
+Business,Active,Customer,47608 Bartelt Center,-,Sainte-Agathe-des-Monts,Québec,Canada,J8C,-
+Shipping,Active,Building,490 Mockingbird Trail,-,Lachute,Québec,Canada,J8H,-
+Business,Active,Customer,287 Dottie Crossing,-,L'Assomption,Québec,Canada,J5W,-
+Home,Active,Building,51 Texas Way,-,Baie-D'Urfé,Québec,Canada,H9X,-
+Business,Active,Customer,87 Sutherland Plaza,-,Maskinongé,Québec,Canada,T7A,-
+Home,Active,Building,89 Brickson Park Park,-,Danville,Québec,Canada,J0A,-
+Business,Active,Customer,961 Hintze Way,-,Les Cèdres,Québec,Canada,J6S,-
+Business,Active,Building,83039 Myrtle Road,-,East Angus,Québec,Canada,N2B,-
+Shipping,Active,Customer,1244 Golf Place,-,Mascouche,Québec,Canada,J6W,-
+Business,Active,Building,45125 Center Alley,-,Amqui,Québec,Canada,G5J,-
+Home,Active,Customer,214 Manley Plaza,-,Thetford-Mines,Québec,Canada,G6G,-
+Home,Active,Building,86 Buell Street,-,Forestville,Québec,Canada,G2B,-
+Business,Active,Customer,41553 Rutledge Circle,-,Notre-Dame-de-l'Île-Perrot,Québec,Canada,H9X,-
+Business,Active,Building,936 Fulton Alley,-,Sutton,Québec,Canada,J5B,-
+Shipping,Active,Customer,708 Lakewood Alley,-,Normandin,Québec,Canada,G0H,-
+Business,Active,Building,299 Armistice Park,-,Havre-Saint-Pierre,Québec,Canada,H4R,-
+Business,Active,Customer,01076 Ridgeway Pass,-,Blainville,Québec,Canada,J7J,-
+Home,Active,Building,0 Hermina Street,-,Saint-Bruno-de-Montarville,Québec,Canada,J3V,-
+Business,Active,Customer,2 Summerview Plaza,-,Baie-D'Urfé,Québec,Canada,H9X,-
+Business,Active,Building,026 Golf View Alley,-,Pont-Rouge,Québec,Canada,G3H,-
+Shipping,Active,Customer,0 Susan Park,-,Adstock,Québec,Canada,G0N,-
+Business,Active,Building,59038 Hintze Place,-,Donnacona,Québec,Canada,G3M,-
+Home,Active,Customer,1 Hanover Trail,-,Princeville,Québec,Canada,J1J,-
+Business,Active,Building,36 Hayes Pass,-,Saint-Jérôme,Québec,Canada,J7Z,-
+Billing,Active,Customer,76 Barby Alley,-,Sainte-Anne-de-Bellevue,Québec,Canada,H9X,-
+Business,Active,Building,8850 Northfield Lane,-,Bromont,Québec,Canada,J2L,-
+Home,Active,Customer,95 Atwood Way,-,Montréal-Est,Québec,Canada,J4N,-
+Billing,Active,Building,9 Continental Road,-,Saint-Bruno-de-Montarville,Québec,Canada,J3V,-
+Business,Active,Customer,81753 Pawling Park,-,Boisbriand,Québec,Canada,J7G,-
+Business,Active,Building,92 Aberg Alley,-,Princeville,Québec,Canada,J1J,-
+Billing,Active,Customer,1093 Northfield Way,-,East Angus,Québec,Canada,N2B,-
+Business,Active,Building,9692 Rigney Pass,-,Lebel-sur-Quévillon,Québec,Canada,N2A,-
+Business,Active,Customer,53 Farmco Way,-,Saint-Eustache,Québec,Canada,J7R,-
+Billing,Active,Building,043 Kropf Alley,-,Napierville,Québec,Canada,M2N,-
+Business,Active,Customer,317 Lunder Hill,-,Les Coteaux,Québec,Canada,J7X,-
+Home,Active,Building,24018 Tennessee Drive,-,Neuville,Québec,Canada,T9M,-
+Shipping,Active,Customer,7 Glacier Hill Alley,-,Sainte-Martine,Québec,Canada,A1C,-
+Business,Active,Building,98748 Pleasure Drive,-,Sainte-Anne-des-Plaines,Québec,Canada,J4X,-
+Business,Active,Customer,2173 Reinke Park,-,Sainte-Sophie,Québec,Canada,J5J,-
+Home,Active,Building,35 Stone Corner Parkway,-,Lacolle,Québec,Canada,E5A,-
+Business,Active,Customer,8159 Washington Way,-,Mont-Royal,Québec,Canada,H5B,-
+Business,Active,Building,7 Namekagon Way,-,Malartic,Québec,Canada,X0G,-
+Home,Active,Customer,14473 2nd Way,-,Saint-Constant,Québec,Canada,J5A,-
+Business,Active,Building,85 Fuller Point,-,Beauharnois,Québec,Canada,J6N,-
+Shipping,Active,Customer,96424 Union Way,-,Beloeil,Québec,Canada,J3H,-
+Business,Active,Building,3385 Carberry Place,-,Drummondville,Québec,Canada,J2E,-
+Home,Active,Customer,50558 Waywood Road,-,Victoriaville,Québec,Canada,G6T,-
+Business,Active,Building,458 Ludington Place,-,Matagami,Québec,Canada,N2M,-
+Home,Active,Customer,1 Kensington Circle,-,Beaconsfield,Québec,Canada,H9W,-
+Shipping,Active,Building,899 Derek Junction,-,Saint-Lambert-de-Lauzon,Québec,Canada,V6L,-
+Business,Active,Customer,0600 Monument Street,-,Amos,Québec,Canada,J9T,-
+Home,Active,Building,9380 Dottie Crossing,-,Lac-Mégantic,Québec,Canada,G6B,-
+Business,Active,Customer,75 Sunnyside Point,-,Sainte-Thérèse,Québec,Canada,J7G,-
+Shipping,Active,Building,24595 Browning Terrace,-,Saint-Félicien,Québec,Canada,G8K,-
+Business,Active,Customer,93 Becker Point,-,Ferme-Neuve,Québec,Canada,V5Y,-
+Home,Active,Building,205 Sunbrook Park,-,Roberval,Québec,Canada,G8H,-
+Billing,Active,Customer,7 Lyons Alley,-,Montréal,Québec,Canada,H5B,-
+Business,Active,Building,5 Erie Lane,-,L'Assomption,Québec,Canada,J5W,-
+Billing,Active,Customer,906 Barby Way,-,Saguenay,Québec,Canada,G7K,-
+Home,Active,Building,865 Superior Road,-,Repentigny,Québec,Canada,J6V,-
+Business,Active,Customer,3615 Parkside Alley,-,Saint-Joseph-de-Coleraine,Québec,Canada,N2E,-
+Shipping,Active,Building,9609 Summer Ridge Lane,-,Mont-Royal,Québec,Canada,H5B,-
+Business,Active,Customer,0492 Redwing Pass,-,Boisbriand,Québec,Canada,J7G,-
+Home,Active,Building,1426 Old Gate Park,-,Beauceville,Québec,Canada,G5X,-
+Business,Active,Customer,348 Crownhardt Point,-,Acton Vale,Québec,Canada,G0E,-
+Business,Active,Building,56598 Mifflin Circle,-,Havre-Saint-Pierre,Québec,Canada,H4R,-
+Home,Active,Customer,53096 Miller Terrace,-,Roberval,Québec,Canada,G8H,-
+Business,Active,Building,26 Sundown Junction,-,Rimouski,Québec,Canada,G5N,-
+Business,Active,Customer,63 Darwin Center,-,Beaconsfield,Québec,Canada,H9W,-
+Shipping,Active,Building,96210 Merry Trail,-,Montréal,Québec,Canada,H5B,-
+Business,Active,Customer,9 Fisk Terrace,-,Mirabel,Québec,Canada,J5K,-
+Billing,Active,Building,12278 Crowley Center,-,Windsor,Québec,Canada,J1S,-
+Business,Active,Customer,34871 Fallview Circle,-,East Angus,Québec,Canada,N2B,-
+Home,Active,Building,81898 Sunfield Point,-,Val-d'Or,Québec,Canada,J9P,-
+Business,Active,Customer,3920 Eliot Hill,-,Hudson,Québec,Canada,J0N,-
+Billing,Active,Building,756 Stoughton Park,-,Matagami,Québec,Canada,N2M,-
+Business,Active,Customer,8824 Namekagon Point,-,Cabano,Québec,Canada,T9H,-
+Home,Active,Building,5522 Farragut Trail,-,Mirabel,Québec,Canada,J5K,-
+Business,Active,Customer,36399 Stang Road,-,Kingsey Falls,Québec,Canada,T8H,-
+Shipping,Active,Building,74 Walton Hill,-,Windsor,Québec,Canada,J1S,-
+Business,Active,Customer,86 Westridge Center,-,Pont-Rouge,Québec,Canada,G3H,-
+Business,Active,Building,935 Corry Place,-,Macamic,Québec,Canada,V6N,-
+Billing,Active,Customer,7413 Main Avenue,-,Ferme-Neuve,Québec,Canada,V5Y,-
+Business,Active,Building,15 Melrose Street,-,Oka,Québec,Canada,J0N,-
+Home,Active,Customer,97 Hudson Circle,-,Sutton,Québec,Canada,J5B,-
+Business,Active,Building,20643 Porter Avenue,-,Repentigny,Québec,Canada,J6V,-
+Billing,Active,Customer,49691 Stang Avenue,-,Cap-Santé,Québec,Canada,N0H,-
+Business,Active,Building,78 Aberg Lane,-,Saint-Sauveur,Québec,Canada,J0R,-
+Home,Active,Customer,89544 Butternut Road,-,Cowansville,Québec,Canada,J2K,-
+Business,Active,Building,6445 Artisan Alley,-,Les Coteaux,Québec,Canada,J7X,-
+Shipping,Active,Customer,7 2nd Point,-,Saint-Ambroise,Québec,Canada,G7P,-
+Business,Active,Building,170 Continental Drive,-,La Tuque,Québec,Canada,G9X,-
+Billing,Active,Customer,95 Barby Junction,-,Victoriaville,Québec,Canada,G6T,-
+Business,Active,Building,5096 Garrison Plaza,-,Saint-Sauveur,Québec,Canada,J0R,-
+Home,Active,Customer,1376 6th Hill,-,Louiseville,Québec,Canada,J5V,-
+Billing,Active,Building,9993 Arapahoe Road,-,Mont-Joli,Québec,Canada,G5H,-
+Business,Active,Customer,3971 Sachs Hill,-,Saint-Lambert-de-Lauzon,Québec,Canada,V6L,-
+Business,Active,Building,0 Sunfield Parkway,-,Sainte-Anne-des-Monts,Québec,Canada,L8P,-
+Billing,Active,Customer,302 John Wall Pass,-,Lachute,Québec,Canada,J8H,-
+Business,Active,Building,77 Meadow Ridge Parkway,-,Saint-Constant,Québec,Canada,J5A,-
+Business,Active,Customer,937 Huxley Drive,-,Cabano,Québec,Canada,T9H,-
+Shipping,Active,Building,90 Menomonie Drive,-,Montréal-Est,Québec,Canada,J4N,-
+Home,Active,Customer,876 Maple Road,-,Saint-André-Avellin,Québec,Canada,T5Y,-
+Business,Active,Building,9 Jay Court,-,Chambly,Québec,Canada,J3L,-
+Billing,Active,Customer,2 Carey Parkway,-,Macamic,Québec,Canada,V6N,-
+Business,Active,Building,20415 Northview Point,-,Saint-Constant,Québec,Canada,J5A,-
+Billing,Active,Customer,969 Blue Bill Park Alley,-,L'Épiphanie,Québec,Canada,J5X,-
+Business,Active,Building,39 Raven Avenue,-,Macamic,Québec,Canada,V6N,-
+Business,Active,Customer,22178 Lakewood Gardens Hill,-,Plessisville,Québec,Canada,G6L,-
+Business,Active,Building,54 Fieldstone Center,-,Berthierville,Québec,Canada,S3N,-
+Shipping,Active,Customer,0 Continental Terrace,-,Sainte-Adèle,Québec,Canada,J8B,-
+Home,Active,Building,7018 Mayer Park,-,Trois-Rivières,Québec,Canada,L8J,-
+Business,Active,Customer,91 Fisk Place,-,Mont-Laurier,Québec,Canada,J9L,-
+Home,Active,Building,08208 Fairfield Drive,-,La Tuque,Québec,Canada,G9X,-
+Business,Active,Customer,25677 Wayridge Circle,-,Hudson,Québec,Canada,J0N,-
+Shipping,Active,Building,4182 Jay Road,-,Mont-Royal,Québec,Canada,H5B,-
+Business,Active,Customer,8534 Katie Alley,-,Québec,Québec,Canada,G6W,-
+Business,Active,Building,2 Banding Way,-,Mont-Tremblant,Québec,Canada,J8E,-
+Billing,Active,Customer,76 Randy Point,-,Bromont,Québec,Canada,J2L,-
+Shipping,Active,Building,43951 Armistice Point,-,Montréal-Est,Québec,Canada,J4N,-
+Home,Active,Customer,32 Jenifer Park,-,Drummondville,Québec,Canada,J2E,-
+Business,Active,Building,8495 Prentice Court,-,Saint-Lambert-de-Lauzon,Québec,Canada,V6L,-
+Business,Active,Customer,96578 Magdeline Park,-,Forestville,Québec,Canada,G2B,-
+Billing,Active,Building,658 Sullivan Pass,-,L'Île-Perrot,Québec,Canada,H9X,-
+Home,Active,Customer,97463 Truax Point,-,Cowansville,Québec,Canada,J2K,-
+Business,Active,Building,171 Amoth Trail,-,Saint-Félicien,Québec,Canada,G8K,-
+Shipping,Active,Customer,7502 Stang Plaza,-,Mont-Royal,Québec,Canada,H5B,-
+Business,Active,Building,5404 Northland Circle,-,Côte-Saint-Luc,Québec,Canada,H7V,-
+Home,Active,Customer,1 Mandrake Drive,-,Sainte-Anne-de-Bellevue,Québec,Canada,H9X,-
+Business,Active,Building,53948 Lindbergh Crossing,-,Mont-Saint-Hilaire,Québec,Canada,J3H,-
+Home,Active,Customer,9 Roxbury Park,-,Prévost,Québec,Canada,T7Z,-
+Business,Active,Building,8 Lake View Avenue,-,Barraute,Québec,Canada,P0M,-
+Business,Active,Customer,44 Ramsey Avenue,-,Varennes,Québec,Canada,J3X,-
+Home,Active,Building,5976 Laurel Crossing,-,Farnham,Québec,Canada,J2N,-
+Business,Active,Customer,355 Lakeland Place,-,Alma,Québec,Canada,N6J,-
+Business,Active,Building,3590 Kennedy Trail,-,Cabano,Québec,Canada,T9H,-
+Shipping,Active,Customer,4280 Schurz Street,-,Pierreville,Québec,Canada,K2C,-
+Business,Active,Building,9 Larry Lane,-,Kirkland,Québec,Canada,H9J,-
+Business,Active,Customer,10519 3rd Hill,-,Sherbrooke,Québec,Canada,J1K,-
+Home,Active,Building,557 Doe Crossing Court,-,Port-Cartier,Québec,Canada,G5B,-
+Business,Active,Customer,8498 Harbort Drive,-,Saint-Eustache,Québec,Canada,J7R,-
+Billing,Active,Building,44082 Schurz Way,-,Victoriaville,Québec,Canada,G6T,-
+Billing,Active,Customer,17 Mallard Avenue,-,Cap-Santé,Québec,Canada,N0H,-
+Business,Active,Building,7996 Mockingbird Alley,-,Fermont,Québec,Canada,J1E,-
+Shipping,Active,Customer,38 Harper Drive,-,Château-Richer,Québec,Canada,B3H,-
+Business,Active,Building,03912 Chinook Place,-,La Sarre,Québec,Canada,J9Z,-
+Home,Active,Customer,40970 Annamark Trail,-,Salaberry-de-Valleyfield,Québec,Canada,J3Y,-
+Business,Active,Building,66615 Pearson Lane,-,Maniwaki,Québec,Canada,J9E,-
+Business,Active,Customer,674 Grim Terrace,-,Saint-Jérôme,Québec,Canada,J7Z,-
+Shipping,Active,Building,21316 Ridge Oak Pass,-,Maniwaki,Québec,Canada,J9E,-
+Billing,Active,Customer,5957 Basil Street,-,Saguenay,Québec,Canada,G7K,-
+Business,Active,Building,5487 Summerview Park,-,Danville,Québec,Canada,J0A,-
+Business,Active,Customer,6 Dexter Pass,-,Albanel,Québec,Canada,G8M,-
+Billing,Active,Building,493 Fordem Pass,-,Alma,Québec,Canada,N6J,-
+Business,Active,Customer,8 American Ash Alley,-,Mont-Joli,Québec,Canada,G5H,-
+Home,Active,Building,479 Daystar Court,-,Oka,Québec,Canada,J0N,-
+Shipping,Active,Customer,36 Del Mar Junction,-,Albanel,Québec,Canada,G8M,-
+Billing,Active,Building,55 Village Road,-,Danville,Québec,Canada,J0A,-
+Business,Active,Customer,562 Porter Circle,-,New-Richmond,Québec,Canada,J7R,-
+Business,Active,Building,44392 Lindbergh Alley,-,Amqui,Québec,Canada,G5J,-
+Shipping,Active,Customer,143 Armistice Circle,-,Lachute,Québec,Canada,J8H,-
+Business,Active,Building,80 Hoepker Center,-,Pierreville,Québec,Canada,K2C,-
+Business,Active,Customer,631 Little Fleur Crossing,-,Fermont,Québec,Canada,J1E,-
+Business,Active,Building,005 Old Gate Street,-,Varennes,Québec,Canada,J3X,-
+Business,Active,Customer,5260 Schiller Road,-,Mont-Laurier,Québec,Canada,J9L,-
+Billing,Active,Building,346 Village Green Lane,-,Pierreville,Québec,Canada,K2C,-
+Business,Active,Customer,18 Hallows Court,-,Vaudreuil-Dorion,Québec,Canada,J7W,-
+Business,Active,Building,783 Kipling Parkway,-,Donnacona,Québec,Canada,G3M,-
+Business,Active,Customer,4579 American Avenue,-,Baie-Comeau,Québec,Canada,K1M,-
+Home,Active,Building,5 Farmco Point,-,Farnham,Québec,Canada,J2N,-
+Business,Active,Customer,94398 Chinook Park,-,Cowansville,Québec,Canada,J2K,-
+Home,Active,Building,345 7th Pass,-,Beloeil,Québec,Canada,J3H,-
+Home,Active,Customer,8 Lakewood Avenue,-,Matagami,Québec,Canada,N2M,-
+Business,Active,Building,11287 Linden Lane,-,Cap-Santé,Québec,Canada,N0H,-
+Billing,Active,Customer,73178 Thackeray Parkway,-,Boisbriand,Québec,Canada,J7G,-
+Business,Active,Building,6444 Dixon Place,-,Notre-Dame-de-l'Île-Perrot,Québec,Canada,H9X,-
+Business,Active,Customer,53401 Buell Road,-,Kirkland,Québec,Canada,H9J,-
+Business,Active,Building,8 Main Pass,-,Pont-Rouge,Québec,Canada,G3H,-
+Billing,Active,Customer,36205 Annamark Street,-,Montréal-Est,Québec,Canada,J4N,-
+Home,Active,Building,489 Farmco Terrace,-,Warwick,Québec,Canada,G6R,-
+Business,Active,Customer,01152 West Street,-,Amos,Québec,Canada,J9T,-
+Business,Active,Building,6 Bluejay Plaza,-,Laval,Québec,Canada,H7S,-
+Home,Active,Customer,4 Division Trail,-,Drummondville,Québec,Canada,J2E,-
+Shipping,Active,Building,1084 Commercial Place,-,Lebel-sur-Quévillon,Québec,Canada,N2A,-
+Business,Active,Customer,1397 Bobwhite Alley,-,Delson,Québec,Canada,J5B,-
+Home,Active,Building,1 Dayton Hill,-,Val-d'Or,Québec,Canada,J9P,-
+Business,Active,Customer,3 Mifflin Court,-,Beaconsfield,Québec,Canada,H9W,-
+Billing,Active,Building,00 Thierer Place,-,Sherbrooke,Québec,Canada,J1K,-
+Business,Active,Customer,694 Old Shore Place,-,Farnham,Québec,Canada,J2N,-
+Business,Active,Building,55 Mandrake Plaza,-,Laval,Québec,Canada,H7S,-
+Shipping,Active,Customer,1 1st Place,-,Saint-Eustache,Québec,Canada,J7R,-
+Home,Active,Building,7 Drewry Alley,-,Coaticook,Québec,Canada,J1A,-
+Business,Active,Customer,287 Sherman Way,-,Kingsey Falls,Québec,Canada,T8H,-
+Billing,Active,Building,40 Kenwood Street,-,Alma,Québec,Canada,N6J,-
+Business,Active,Customer,01068 Sachs Avenue,-,Havre-Saint-Pierre,Québec,Canada,H4R,-
+Billing,Active,Building,936 Florence Road,-,Saint-Tite,Québec,Canada,G8B,-
+Business,Active,Customer,821 Bayside Hill,-,Windsor,Québec,Canada,J1S,-
+Business,Active,Building,31 Lillian Hill,-,L'Assomption,Québec,Canada,J5W,-
+Business,Active,Customer,92932 Center Plaza,-,Magog,Québec,Canada,J1X,-
+Billing,Active,Building,9 Blaine Crossing,-,Saint-Sauveur,Québec,Canada,J0R,-
+Business,Active,Customer,35395 Buell Terrace,-,Fermont,Québec,Canada,J1E,-
+Business,Active,Building,24113 Glacier Hill Avenue,-,Varennes,Québec,Canada,J3X,-
+Billing,Active,Customer,06 Sloan Drive,-,Saint-Bruno-de-Guigues,Québec,Canada,G6B,-
+Business,Active,Building,5 Melvin Terrace,-,Forestville,Québec,Canada,G2B,-
+Business,Active,Customer,518 Moose Plaza,-,Delson,Québec,Canada,J5B,-
+Home,Active,Building,25867 Morningstar Circle,-,Repentigny,Québec,Canada,J6V,-
+Billing,Active,Customer,814 Commercial Place,-,Saint-Félicien,Québec,Canada,G8K,-
+Business,Active,Building,076 Bluejay Parkway,-,Victoriaville,Québec,Canada,G6T,-
+Business,Active,Customer,79534 Vermont Pass,-,Amos,Québec,Canada,J9T,-
+Billing,Active,Building,79 Starling Trail,-,Saint-Augustin,Québec,Canada,G5J,-
+Shipping,Active,Customer,0209 Carey Lane,-,Drummondville,Québec,Canada,J2E,-
+Business,Active,Building,9494 Bultman Parkway,-,Montréal,Québec,Canada,H5B,-
+Business,Active,Customer,41 Buena Vista Hill,-,Saint-Tite,Québec,Canada,G8B,-
+Home,Active,Building,92 Trailsway Trail,-,Sainte-Adèle,Québec,Canada,J8B,-
+Billing,Active,Customer,7628 Tennyson Drive,-,Beauharnois,Québec,Canada,J6N,-
+Business,Active,Building,347 Derek Park,-,Laval,Québec,Canada,H7S,-
+Business,Active,Customer,7255 Twin Pines Pass,-,Port-Cartier,Québec,Canada,G5B,-
+Business,Active,Building,667 Colorado Street,-,Magog,Québec,Canada,J1X,-
+Billing,Active,Customer,79 Clove Pass,-,Varennes,Québec,Canada,J3X,-
+Business,Active,Building,2647 Havey Court,-,Saint-Joseph-de-Coleraine,Québec,Canada,N2E,-
+Shipping,Active,Customer,45 Merchant Place,-,Asbestos,Québec,Canada,J1T,-
+Business,Active,Building,8 Eagan Drive,-,Marieville,Québec,Canada,J3M,-
+Home,Active,Customer,13612 Huxley Point,-,Lévis,Québec,Canada,G6W,-
+Business,Active,Building,466 Del Sol Trail,-,Montréal,Québec,Canada,H5B,-
+Home,Active,Customer,51 Straubel Alley,-,Mont-Tremblant,Québec,Canada,J8E,-
+Business,Active,Building,6 Hudson Plaza,-,Sainte-Agathe-des-Monts,Québec,Canada,J8C,-
+Billing,Active,Customer,19584 Lunder Way,-,Albanel,Québec,Canada,G8M,-
+Business,Active,Building,228 Waubesa Park,-,Lac-Brome,Québec,Canada,L9G,-
+Shipping,Active,Customer,9 Clove Circle,-,Farnham,Québec,Canada,J2N,-
+Home,Active,Building,0 Lighthouse Bay Center,-,Prévost,Québec,Canada,T7Z,-

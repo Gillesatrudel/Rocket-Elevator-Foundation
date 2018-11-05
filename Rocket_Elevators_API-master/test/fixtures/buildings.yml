@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: one
+  addresses: one
+  administrator_full_name: MyString
+  administrator_phone: MyString
+  administrator_email: MyString
+  technician_full_name: MyString
+  technician_phone: MyString
+  technician_email: MyString
+
+two:
+  customer: two
+  addresses: two
+  administrator_full_name: MyString
+  administrator_phone: MyString
+  administrator_email: MyString
+  technician_full_name: MyString
+  technician_phone: MyString
+  technician_email: MyString

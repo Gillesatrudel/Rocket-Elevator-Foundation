@@ -1,0 +1,181 @@
+Id,Created at,Updated at,Quote type,Full name,Business name,Email,Nb floors,Nb apt,Nb base,Nb cies,Nb parking,Nb shaft,Nb corp,Nb person,Bus hours,Req elev,Option,Nb elev,Price per elev,Elev total,Cost install,Total
+1,12/10/2016,12/10/2016,hybrid,Philippe Bouillon,Johnson Controls International plc,newfylox@hotmail.com,2, - ,4,4,6, - , - ,4, - ,1,Premium,1,12345,12345,1604.85,13949.8
+2,12/10/2016,12/10/2016,hybrid, -   - ,"TPI Composites, Inc.", - , - , - , - , - , - , - , - , - , - , - , - , - , - , - , - , - 
+3,13/10/2016,13/10/2016,hybrid,cdwcnl cwmm,DRDGOLD Limited,mcwdlm,64, - ,8,13,800, - , - ,400, - ,32,Excelium,32,15400,492800,78848,571648
+4,20/10/2016,20/10/2016,hybrid,Michel Goulet,"Genesis Energy, L.P.",michel.goulet@gmail.com,47,500,8, - , - , - , - , - , - ,6,Excelium,6,15400,92400,14784,107184
+5,20/10/2016,20/10/2016,hybrid,Alain Cote,Petroleo Brasileiro S.A.- Petrobras,alaincotebonbuit@outlook.com,20,650,5, - , - , - , - , - , - ,6,Premium,6,12345,74070,9629.1,83699.1
+6,20/10/2016,20/10/2016,hybrid,jp boutin,"Kinder Morgan, Inc.",teszt @hf.com,23,65,2, - , - , - , - , - , - ,2,Premium,2,12345,24690,3209.7,27899.7
+7,26/10/2016,26/10/2016,hybrid,Chantal Tardif,"GTx, Inc.",chantal.tardif2.ciussscn@ssss.gouv.qc.ca,500, - ,4,100,989, - , - ,500, - ,260,Excelium,260,15400,4004000,640640,4644640
+8,27/10/2016,27/10/2016,hybrid,Gonzalez Marla,Flaherty & Crumrine Preferred Income Fund Incorporated,marlag@gmail.com,5,200,2, - , - , - , - , - , - ,7,Standard,7,7565,52955,5295.5,58250.5
+9,14/11/2016,14/11/2016,hybrid,Symon Marcoux,"Gabelli Equity Trust, Inc. (The)",symonmarcoux@gmail.com,4,11,1, - , - , - , - , - , - ,1,Excelium,1,15400,15400,2464,17864
+10,16/11/2016,16/11/2016,corporate,Alain Poitras,Vident Core US Equity ETF,miki4983@hotmail.com,50, - ,8, - ,800, - ,26,450, - ,27,Premium,27,12345,333315,43330.9,376646
+11,16/11/2016,16/11/2016,commercial,eric  Nicole,"Analog Devices, Inc.",ericnicole@gmail.com,22, - ,3,40,250,5, - , - , - ,5,Premium,5,12345,61725,8024.25,69749.2
+12,29/11/2016,29/11/2016,commercial,Leticia Leiva,WisdomTree China ex-State-Owned Enterprises Fund,shakiss_l@hotmail.com,12, - ,2,24,36,3, - , - , - ,3,Premium,3,12345,37035,4814.55,41849.6
+13,3/12/2016,3/12/2016,corporate,Julie Consigny,"Calavo Growers, Inc.",julieconsigny70@gmail.com,8, - ,2, - ,300, - ,46,700, - ,7,Premium,7,12345,86415,11234,97649
+14,5/12/2016,5/12/2016,corporate,Carolyne Garneau,Hyatt Hotels Corporation,grizzly96@hotmail.com,6,50,1, - , - , - , - , - , - ,2,Excelium,2,15400,30800,4928,35728
+15,13/12/2016,13/12/2016,corporate,Mabel  Contreras,ON Semiconductor Corporation,mabelcon@gmail.com,12,123,2, - , - , - , - , - , - ,2,Excelium,2,15400,30800,4928,35728
+16,15/12/2016,15/12/2016,corporate,Marc-Antoine Bastien,"Cal-Maine Foods, Inc.",marcantoinebastien@gmail.com,67, - ,4, - ,500, - ,123,80, - ,8,Standard,8,7565,60520,6052,66572
+17,20/12/2016,20/12/2016,residential,Oliver Parker,Vanguard International High Dividend Yield ETF,oparker@hotmail.com,9,154,2, - , - , - , - , - , - ,3,Standard,3,7565,22695,2269.5,24964.5
+18,21/12/2016,21/12/2016,hybrid,Maxime Bernier,Wix.com Ltd.,maximebernier@gmail.com,44, - ,2,90,300, - , - ,50, - ,3,Excelium,3,15400,46200,7392,53592
+19,23/12/2016,23/12/2016,hybrid,Dora German,Camden National Corporation,dora.glz19@hotmail.com,13, - ,2,35,50, - , - ,150, - ,3,Standard,3,7565,22695,2269.5,24964.5
+20,24/12/2016,24/12/2016,commercial,Jennifer Lapointe,Gafisa SA,jenniferlapointe@hotmail.ca,35, - ,6,300,700,6, - , - , - ,6,Premium,6,12345,74070,9629.1,83699.1
+21,27/12/2016,27/12/2016,corporate,Chantal Tardif,Ascendis Pharma A/S,chantal.tardif2.ciussscn@ssss.gouv.qc.ca,22, - ,4, - ,400, - ,45,500, - ,14,Standard,14,7565,105910,10591,116501
+22,28/12/2016,28/12/2016,hybrid,Stephane Munger,"Century Bancorp, Inc.",stephanemunger@gmail.com,33,123,2, - , - , - , - , - , - ,2,Standard,2,7565,15130,1513,16643
+23,29/12/2016,29/12/2016,hybrid,Rosa Zuviri,"Colony NorthStar, Inc.",rosazg@outlook.com,10,250,1, - , - , - , - , - , - ,5,Premium,5,12345,61725,8024.25,69749.2
+24,1/1/2017,1/1/2017,commercial,Bobby Orr,"NN, Inc.",boborr@gmail.com,450, - ,54,125,1587,25, - , - , - ,25,Premium,25,12345,308625,40121.2,348746
+25,6/1/2017,6/1/2017,hybrid,Felipe Martinez,Renren Inc.,felipemartinez@hotmail.com,12,300,3, - , - , - , - , - , - ,5,Excelium,5,15400,77000,12320,89320
+26,7/1/2017,7/1/2017,hybrid,Catherine Cantin,iShares MSCI EAFE ESG Optimized ETF,saxynavy@aol.com,18, - ,5,76,600, - , - ,300, - ,8,Excelium,8,15400,123200,19712,142912
+27,9/1/2017,9/1/2017,hybrid,Dominic Goupil,"CYS Investments, Inc.",goudel@videotron.ca,9, - ,2,48,600, - , - ,700, - ,8,Premium,8,12345,98760,12838.8,111599
+28,10/1/2017,10/1/2017,commercial,Miguel Avila,CombiMatrix Corporation,miguelavilamartinez@gmail.com,300, - ,3,60,60,4, - , - , - ,4,Excelium,4,15400,61600,9856,71456
+29,12/1/2017,12/1/2017,commercial,Sideshow Bob,"Fogo de Chao, Inc.",sideshowbob@gmail.com,200, - ,7,400,1000,12, - , - , - ,12,Excelium,12,15400,184800,29568,214368
+30,13/01/2017,13/01/2017,hybrid,Isabelle Csss,Hailiang Education Group Inc.,coteisabelle@live.ca,14, - ,6,65,785, - , - ,430, - ,9,Premium,9,12345,111105,14443.7,125549
+31,14/01/2017,14/01/2017,corporate,Ana Echavarria,Citigroup Inc.,ana23@gmail.com,30, - ,2, - ,60, - ,60,200, - ,8,Excelium,8,15400,123200,19712,142912
+32,18/01/2017,18/01/2017,corporate,Geddy Lee,Origin Agritech Limited,geddylee@gmail.com,32, - ,2, - ,80, - ,12,26, - ,2,Standard,2,7565,15130,1513,16643
+33,24/01/2017,24/01/2017,corporate,Rodger Lattimer,Domtar Corporation,r.latti@gmail.com,23, - ,4, - ,1247, - ,15,325, - ,10,Excelium,10,15400,154000,24640,178640
+34,31/01/2017,31/01/2017,hybrid,Martin Tremblay,WeatherStorm Forensic Accounting Long Short ETF,martintremblay77@hotmail.com,3,2,1, - , - , - , - , - , - ,1,Excelium,1,15400,15400,2464,17864
+35,4/2/2017,4/2/2017,hybrid,Joaquin Garza,Shinhan Financial Group Co Ltd,joaquin50@outlook.com,10,200,2, - , - , - , - , - , - ,4,Excelium,4,15400,61600,9856,71456
+36,5/2/2017,5/2/2017,corporate,Stephane Tanguay,"Coherent, Inc.",tanguaystef@sympatico.ca,9, - ,3, - ,1100, - ,54,700, - ,9,Standard,9,7565,68085,6808.5,74893.5
+37,7/2/2017,7/2/2017,hybrid,Marilu Pozos,MB Financial Inc.,marilupozos@hotmail.com,10, - ,2,50,50, - , - ,120, - ,2,Standard,2,7565,15130,1513,16643
+38,10/2/2017,10/2/2017,hybrid,Olivia Bernard,"Choice Hotels International, Inc.",Obern@gmail.com,125, - ,5,142,1593, - , - ,421, - ,56,Premium,56,12345,691320,89871.6,781192
+39,10/2/2017,10/2/2017,commercial,Valeria Picazo,Nuveen Preferred Income Opportunites Fund,valepicazo@outlook.com,12, - ,1,45,50,3, - , - , - ,3,Premium,3,12345,37035,4814.55,41849.6
+40,14/02/2017,14/02/2017,corporate,Julie Lemieux,Athene Holding Ltd.,julielemieux70@gmail.com,6, - ,2, - ,700, - ,65,458, - ,4,Standard,4,7565,30260,3026,33286
+41,16/02/2017,16/02/2017,hybrid,Socorro Calderon,"Ascena Retail Group, Inc.",coco34@gmail.com,13,300,2, - , - , - , - , - , - ,4,Excelium,4,15400,61600,9856,71456
+42,21/02/2017,21/02/2017,hybrid,Henri Lavigne,"Real Industry, Inc. ",lav76454@outlook.ca,8, - ,2,35,500, - , - ,400, - ,4,Excelium,4,15400,61600,9856,71456
+43,27/02/2017,27/02/2017,commercial,Amancio Gomez,Drive Shack Inc.,amanciog@hotmail.com,14, - ,4,56,60,3, - , - , - ,3,Standard,3,7565,22695,2269.5,24964.5
+44,3/3/2017,3/3/2017,residential,Frank Cortollini,PowerShares S&P SmallCap Information Technology Portfolio,Fcortol@gmail.com,25,250,3, - , - , - , - , - , - ,4,Premium,4,12345,49380,6419.4,55799.4
+45,18/03/2017,18/03/2017,corporate,Isabella Hernandez,"Compania Cervecerias Unidas, S.A.",isabella.hernandez@gmail.com,15, - ,4, - ,70, - ,60,200, - ,4,Excelium,4,15400,61600,9856,71456
+46,25/03/2017,25/03/2017,hybrid,Florence Vaillancourt,First Trust Municipal CEF Income Opportunity ETF,vaillancourtflorence@outlook.ca,18, - ,5,32,760, - , - ,500, - ,12,Excelium,12,15400,184800,29568,214368
+47,28/03/2017,28/03/2017,hybrid,Alyson Jauregui,iShares MSCI EAFE ESG Optimized ETF,alyJauregui@hotmail.com,12, - ,2,80,90, - , - ,200, - ,3,Excelium,3,15400,46200,7392,53592
+48,28/03/2017,28/03/2017,residential,Anahis Rodriguez,magicJack VocalTec Ltd,anahis_rdz@outlook.com,12,200,2, - , - , - , - , - , - ,3,Premium,3,12345,37035,4814.55,41849.6
+49,31/03/2017,31/03/2017,commercial,Garry Harper,"Kratos Defense & Security Solutions, Inc.",Gharp@gmail.com,35, - ,2,152,1234,21, - , - , - ,21,Excelium,21,15400,323400,51744,375144
+50,10/4/2017,10/4/2017,hybrid,Tiffany Bruyere,Genpact Limited,tiffbruyere@ypotek.com,14, - ,3,32,744, - , - ,500, - ,9,Premium,9,12345,111105,14443.7,125549
+51,15/04/2017,15/04/2017,commercial,Juan Luis Chavez,"Mota Group, Inc.",juan.chavez@hotmail.com,13, - ,2,90,100,3, - , - , - ,3,Premium,3,12345,37035,4814.55,41849.6
+52,26/04/2017,26/04/2017,hybrid,Yann Dore,"Lantronix, Inc.",yanndo666@gmail.com,2,6,1, - , - , - , - , - , - ,1,Standard,1,7565,7565,756.5,8321.5
+53,27/04/2017,27/04/2017,corporate,robert  - ,"Hibbett Sports, Inc.", - , - , - , - , - , - , - , - , - , - , - , - , - , - , - , - , - 
+54,3/5/2017,3/5/2017,commercial,Joakim Bruyere,First Financial Bancorp.,jbruyereca@badaboom.ca,76, - ,12,654,850,8, - , - , - ,8,Standard,8,7565,60520,6052,66572
+55,5/5/2017,5/5/2017,commercial,Abel Gonzalez,"Biostage, Inc.",lobo.abel@hotmail.com,10,200,1, - , - , - , - , - , - ,4,Standard,4,7565,30260,3026,33286
+56,14/05/2017,14/05/2017,hybrid, -   - ,"CareDx, Inc.", - , - , - , - , - , - , - , - , - , - , - , - , - , - , - , - , - 
+57,15/05/2017,15/05/2017,hybrid,Johanne Braun,"Sage Therapeutics, Inc.",johannebraun@hotmail.com,5,49,2, - , - , - , - , - , - ,2,Excelium,2,15400,30800,4928,35728
+58,23/05/2017,23/05/2017,corporate,Lizbeth  Altamirano,PIMCO New York Municipal Income Fund III,liz_altamirano@outlook.com,10, - ,1, - ,70, - ,70,120, - ,2,Excelium,2,15400,30800,4928,35728
+59,1/6/2017,1/6/2017,corporate,Jaymie Martel,"Jamba, Inc.",jaymiemartel@gmail.com,21, - ,5, - ,900, - ,67,800, - ,22,Standard,22,7565,166430,16643,183073
+60,20/06/2017,20/06/2017,hybrid,Alicia Hervert,"Red Robin Gourmet Burgers, Inc.",ali.hervert@gmail.com,10,300,2, - , - , - , - , - , - ,5,Standard,5,7565,37825,3782.5,41607.5
+61,20/06/2017,20/06/2017,hybrid,Guy Carbonneau,Teva Pharmaceutical Industries Limited,capitaine@ch.com,6,66,6, - , - , - , - , - , - ,2,Excelium,2,15400,30800,4928,35728
+62,20/06/2017,20/06/2017,hybrid,Robert Lomphrar,"Sun Bancorp, Inc.",rlomp@gmail.com,23,125,3, - , - , - , - , - , - ,2,Standard,2,7565,15130,1513,16643
+63,22/06/2017,22/06/2017,commercial,Lea-Jeanne Fortier,Pacific Special Acquisition Corp.,leajeannefortier@msn.ca,23, - ,7,76,600,7, - , - , - ,7,Excelium,7,15400,107800,17248,125048
+64,29/06/2017,29/06/2017,hybrid,Franz Girard,Gabelli Global Small and Mid Cap Value Trust (The),franz.girard@gmail.com,10,300,2, - , - , - , - , - , - ,5,Excelium,5,15400,77000,12320,89320
+65,6/7/2017,6/7/2017,commercial,Mike Kean,Till Capital Ltd.,champ@ch.com,15, - ,5,50,200,2, - , - , - ,2,Excelium,2,15400,30800,4928,35728
+66,11/7/2017,11/7/2017,corporate,Charlie-Rose Boucher,voxeljet AG,crboucher@construction.com,5,62,2, - , - , - , - , - , - ,3,Standard,3,7565,22695,2269.5,24964.5
+67,16/07/2017,16/07/2017,hybrid,Marina Castillo,Global X SuperDividend Alternatives ETF,marina_castillo@hotmail.com,20, - ,4,400,400, - , - ,200, - ,6,Premium,6,12345,74070,9629.1,83699.1
+68,18/07/2017,18/07/2017,corporate,Dennis Marchand,Bank of America Corporation,dmarch@gmail.com,87, - ,8, - ,1657, - ,58,547, - ,55,Standard,55,7565,416075,41607.5,457682
+69,19/07/2017,19/07/2017,hybrid,Dominique Gaudreau,"Hennessy Advisors, Inc.",gaudreau@videotron.ca,5, - ,1,32,500, - , - ,400, - ,3,Premium,3,12345,37035,4814.55,41849.6
+70,21/07/2017,21/07/2017,commercial,Genaro Zuviri,Dean Foods Company,genaro.zuviri@gmail.com,17, - ,3,200,250,4, - , - , - ,4,Excelium,4,15400,61600,9856,71456
+71,26/07/2017,26/07/2017,hybrid,Fred Gongner,"VASCO Data Security International, Inc.",fgon@gmail.com,67, - ,5,154,1102, - , - ,300, - ,24,Premium,24,12345,296280,38516.4,334796
+72,7/8/2017,7/8/2017,residential,Citlalli Rodriguez,Fibrocell Science Inc,tali_rodriguez@hotmail.com,10,400,4, - , - , - , - , - , - ,7,Standard,7,7565,52955,5295.5,58250.5
+73,12/8/2017,12/8/2017,hybrid,Frederic Bolduc,Regulus Therapeutics Inc.,fbolduc@escavations.com,5,48,2, - , - , - , - , - , - ,2,Standard,2,7565,15130,1513,16643
+74,14/08/2017,14/08/2017,hybrid,Mathieu Dore,PIMCO Income Strategy Fund,math@gmail.com,5, - ,3,60,200, - , - ,44, - ,1,Premium,1,12345,12345,1604.85,13949.8
+75,19/08/2017,19/08/2017,corporate,Efrain Barbosa,Invesco Municipal Income Opportunities Trust,barbosa29@outlook.com,20,400,4, - , - , - , - , - , - ,4,Premium,4,12345,49380,6419.4,55799.4
+76,21/08/2017,21/08/2017,corporate,Peter Simons,"John Wiley & Sons, Inc.",petersimons@subventions.qc.ca,8, - ,2, - ,890, - ,56,678, - ,7,Excelium,7,15400,107800,17248,125048
+77,27/08/2017,27/08/2017,corporate,Sam Luccio,Xcel Energy Inc.,sammylu@gmail.com,20, - ,2, - ,200, - ,250,200, - ,6,Premium,6,12345,74070,9629.1,83699.1
+78,28/08/2017,28/08/2017,commercial,Patrick Roy,Invacare Corporation,pat@gmail.com,30, - ,4,88,4,5, - , - , - ,5,Standard,5,7565,37825,3782.5,41607.5
+79,3/9/2017,3/9/2017,commercial,Valery simon,"Integrated Device Technology, Inc.",vs@gmail.com,64, - ,2,54,298,18, - , - , - ,18,Excelium,18,15400,277200,44352,321552
+80,5/9/2017,5/9/2017,hybrid,Helene Begin,Invesco Municipal Income Opportunities Trust,helene.begin@hotmail.com,15,300,2, - , - , - , - , - , - ,4,Premium,4,12345,49380,6419.4,55799.4
+81,6/9/2017,6/9/2017,hybrid,Jean-Francois Fillion,Prudential Public Limited Company,jeff@radiopirate.com,3,2,1, - , - , - , - , - , - ,1,Standard,1,7565,7565,756.5,8321.5
+82,7/9/2017,7/9/2017,hybrid,Nicolas  Genest ,"Electronics for Imaging, Inc.",nic@gmail.com,2, - ,1,8,30, - , - ,30, - ,1,Excelium,1,15400,15400,2464,17864
+83,7/9/2017,7/9/2017,commercial,Silvia Orta,Unilever NV,orta.ahumada@gmail.com,12, - ,4,200,300,4, - , - , - ,4,Premium,4,12345,49380,6419.4,55799.4
+84,9/9/2017,9/9/2017,hybrid,Lionel Messi,"Pluristem Therapeutics, Inc.",lionelmessi@fcbarcelona.esp,24, - ,5,83,670, - , - ,320, - ,10,Standard,10,7565,75650,7565,83215
+85,10/9/2017,10/9/2017,hybrid,Hector Kasper,NeoPhotonics Corporation,hkasp@gmail.com,36,680,5, - , - , - , - , - , - ,8,Excelium,8,15400,123200,19712,142912
+86,14/09/2017,14/09/2017,commercial,Nerea Larrucea,"County Bancorp, Inc.",nerea19@hotmail.com,16, - ,4,300,300,3, - , - , - ,3,Premium,3,12345,37035,4814.55,41849.6
+87,1/10/2017,1/10/2017,hybrid,John Smith,PowerShares S&P SmallCap Financials Portfolio,annied585@hotmail.com,14, - ,4,540,1120, - , - ,500, - ,9,Premium,9,12345,111105,14443.7,125549
+88,2/10/2017,2/10/2017,hybrid,Norma Maldonado,PVH Corp.,norma88@outlook.com,20, - ,5,300,400, - , - ,400, - ,10,Premium,10,12345,123450,16048.5,139498
+89,3/10/2017,3/10/2017,corporate,Nick Target,"MainSource Financial Group, Inc.",ntarget@gmail.com,72, - ,5, - ,1486, - ,85,412, - ,32,Premium,32,12345,395040,51355.2,446395
+90,6/10/2017,6/10/2017,hybrid,jaques Demers,"Globus Medical, Inc.",jd@gmail.com,1,3,0, - , - , - , - , - , - ,1,Premium,1,12345,12345,1604.85,13949.8
+91,10/10/2017,10/10/2017,corporate,John Molson,First Trust United Kingdom AlphaDEX Fund,johnmolson@molson.com,17, - ,5, - ,749, - ,7,820, - ,20,Premium,20,12345,246900,32097,278997
+92,11/10/2017,11/10/2017,hybrid,Maria Lopez,EPR Properties,lopez.18@gmail.com,14,200,2, - , - , - , - , - , - ,3,Excelium,3,15400,46200,7392,53592
+93,13/10/2017,13/10/2017,hybrid,Mario  Tremblay,"The Meet Group, Inc.",yanndo666@gmail.com,1,4,0, - , - , - , - , - , - ,1,Excelium,1,15400,15400,2464,17864
+94,14/10/2017,14/10/2017,corporate,Dinora Hernandez,Almost Family Inc,dino.hdz@hotmail.com,13,400,2, - , - , - , - , - , - ,6,Standard,6,7565,45390,4539,49929
+95,17/10/2017,17/10/2017,corporate,Ali Baba,NovoCure Limited,alibaba@tapisvolant.ar,2, - ,1, - ,1238, - ,145,2100, - ,7,Excelium,7,15400,107800,17248,125048
+96,23/10/2017,23/10/2017,hybrid,Suzie  Lambert,Open Text Corporation,suzie@gmail.com,2,6,1, - , - , - , - , - , - ,1,Standard,1,7565,7565,756.5,8321.5
+97,31/10/2017,31/10/2017,commercial,Lorena Pedraza,QAD Inc.,lore33@hotmail.com,12,300,3, - , - , - , - , - , - ,5,Excelium,5,15400,77000,12320,89320
+98,2/11/2017,2/11/2017,hybrid,Michael Sniper,"Ra Pharmaceuticals, Inc.",msnip@hotmail.com,65, - ,4,128,453, - , - ,124, - ,12,Standard,12,7565,90780,9078,99858
+99,6/11/2017,6/11/2017,hybrid,Judith La Pute,"United Bancshares, Inc.",judithlapute@sexe.com,69, - ,6,69,6969, - , - ,696, - ,56,Premium,56,12345,691320,89871.6,781192
+100,8/11/2017,8/11/2017,hybrid,Alessandra Jauregui,ON Semiconductor Corporation,alessa04@outlook.com,12, - ,2,300,350, - , - ,300, - ,5,Excelium,5,15400,77000,12320,89320
+101,15/11/2017,15/11/2017,commercial,Pierre Lambert,VelocityShares Daily 2x VIX Short-Term ETN,pierre@gmail.com,15, - ,2,60,386,2, - , - , - ,2,Premium,2,12345,24690,3209.7,27899.7
+102,21/11/2017,21/11/2017,corporate,Estela Losa,National Energy Services Reunited Corp.,losa.estela@hotmail.com,20,400,4, - , - , - , - , - , - ,4,Premium,4,12345,49380,6419.4,55799.4
+103,25/11/2017,25/11/2017,commercial,Nicolas Genest,DTE Energy Company,nicolasgenest@genest.com,34, - ,7,29,749,5, - , - , - ,5,Premium,5,12345,61725,8024.25,69749.2
+104,26/11/2017,26/11/2017,hybrid,Georges Laraque,CyberArk Software Ltd.,George@gmail.com,44, - ,4,155,55, - , - ,55, - ,3,Premium,3,12345,37035,4814.55,41849.6
+105,27/11/2017,27/11/2017,residential,Albert Matassil,John Hancock Income Securities Trust,amatas@gmail.com,26,75,3, - , - , - , - , - , - ,2,Excelium,2,15400,30800,4928,35728
+106,1/12/2017,1/12/2017,commercial,Erik Fernandez,"Fidelity National Information Services, Inc.",erik.fdz@hotmail.com,25,400,3, - , - , - , - , - , - ,6,Excelium,6,15400,92400,14784,107184
+107,4/12/2017,4/12/2017,commercial,Peter Pan,"Lifetime Brands, Inc.",peterpan@disney.com,15, - ,4,35,870,7, - , - , - ,7,Excelium,7,15400,107800,17248,125048
+108,6/12/2017,6/12/2017,hybrid,Adela Buenavida,"KemPharm, Inc.",vida.adela@hotmail.com,400, - ,5,300,400, - , - ,350, - ,147,Premium,147,12345,1814720,235913,2050630
+109,8/12/2017,8/12/2017,corporate,Annie Brocoli,"Meritor, Inc.",anniebrocoli@telequebec.qc.ca,9, - ,2, - ,548, - ,38,560, - ,7,Standard,7,7565,52955,5295.5,58250.5
+110,10/12/2017,10/12/2017,corporate,Esperanza Del real,CNH Industrial N.V.,real.esperanza@gmail.com,18,300,5, - , - , - , - , - , - ,3,Excelium,3,15400,46200,7392,53592
+111,12/12/2017,12/12/2017,hybrid,Carey  Price,Cowen Inc.,carey@gmail.com,1,2,1, - , - , - , - , - , - ,1,Excelium,1,15400,15400,2464,17864
+112,12/12/2017,12/12/2017,commercial,Mike Laboring,"Goldman Sachs Group, Inc. (The)",mlabor@gmail.com,43, - ,4,54,1345,24, - , - , - ,24,Standard,24,7565,181560,18156,199716
+113,12/12/2017,12/12/2017,hybrid,Nadia Juarez,Repros Therapeutics Inc.,nadiaju@gmail.com,20,300,4, - , - , - , - , - , - ,3,Excelium,3,15400,46200,7392,53592
+114,16/12/2017,16/12/2017,commercial,Lise Plante,Kentucky First Federal Bancorp,liseplante5423@msn.com,12, - ,4,23,930,7, - , - , - ,7,Standard,7,7565,52955,5295.5,58250.5
+115,30/12/2017,30/12/2017,hybrid,Lemmy  Killminsther,"Blackrock MuniYield Quality Fund, Inc.",Lemmy666@gmail.com,5,55,5, - , - , - , - , - , - ,2,Premium,2,12345,24690,3209.7,27899.7
+116,4/1/2018,4/1/2018,corporate,Mateo Olivares,Intellipharmaceutics International Inc.,mateolivares@gmail.com,20,300,3, - , - , - , - , - , - ,3,Standard,3,7565,22695,2269.5,24964.5
+117,10/1/2018,10/1/2018,corporate,Etienne Breault,"GoPro, Inc.",breault@hotelsgermain.com,18, - ,4, - ,670, - ,7,258, - ,6,Excelium,6,15400,92400,14784,107184
+118,12/1/2018,12/1/2018,corporate,Brit Raymond,Regions Financial Corporation,braymond@gmail.com,71, - ,5, - ,1584, - ,84,214, - ,20,Excelium,20,15400,308000,49280,357280
+119,16/01/2018,16/01/2018,corporate,Gertrudis Abeo,"TerraForm Global, Inc.",g.abeo@gmail.com,20, - ,5, - ,300, - ,300,300, - ,8,Standard,8,7565,60520,6052,66572
+120,17/01/2018,17/01/2018,corporate,Bernard Laliberte,California Resources Corporation,bernardlaliberte@chu.qc.ca,8, - ,2, - ,792, - ,26,552, - ,6,Standard,6,7565,45390,4539,49929
+121,22/01/2018,22/01/2018,corporate,Garry  Betman,Loews Corporation,gary@gmail.com,58, - ,3, - ,400, - ,247,55, - ,4,Premium,4,12345,49380,6419.4,55799.4
+122,22/01/2018,22/01/2018,hybrid,Natalie Ringuet,"Loral Space and Communications, Inc.",ringuet.n@hotmail.com,30, - ,5,400,450, - , - ,400, - ,14,Excelium,14,15400,215600,34496,250096
+123,24/01/2018,24/01/2018,hybrid,Eugenie Bouchard,Omeros Corporation,yanndo666@gmail.com,1,4,1, - , - , - , - , - , - ,1,Premium,1,12345,12345,1604.85,13949.8
+124,25/01/2018,25/01/2018,hybrid,Carolyne Tremblay,"Orion Energy Systems, Inc.",hally96@hotmail.com,6, - ,2,100,800, - , - ,310, - ,3,Standard,3,7565,22695,2269.5,24964.5
+125,28/01/2018,28/01/2018,hybrid,Alex Kapovtish,Capstone Turbine Corporation,alex@hotmail.com,98, - ,8,341,2587, - , - ,450, - ,48,Excelium,48,15400,739200,118272,857472
+126,29/01/2018,29/01/2018,hybrid,Jessica Lauziere,Owens Corning Inc,jesslauz@gmail.com,18, - ,4,450,600, - , - ,500, - ,12,Standard,12,7565,90780,9078,99858
+127,12/2/2018,12/2/2018,commercial,Tania Savoie,ClearBridge Energy MLP Opportunity Fund Inc.,tania.savoie@hotmail.com,10,300,1, - , - , - , - , - , - ,5,Standard,5,7565,37825,3782.5,41607.5
+128,16/02/2018,16/02/2018,hybrid,Dave  Grohl,"Tyson Foods, Inc.",dave@gmail.com,4,44,4, - , - , - , - , - , - ,2,Excelium,2,15400,30800,4928,35728
+129,16/02/2018,16/02/2018,hybrid,Stephane Bolduc,"Dr Pepper Snapple Group, Inc",sbolduc@bolduc.ca,4,4,1, - , - , - , - , - , - ,1,Standard,1,7565,7565,756.5,8321.5
+130,19/02/2018,19/02/2018,hybrid,Laurra Zurri,Dividend and Income Fund,Lauzaurr@gmail.com,61,785,6, - , - , - , - , - , - ,12,Standard,12,7565,90780,9078,99858
+131,19/02/2018,19/02/2018,corporate,Natasha Begin,Adaptimmune Therapeutics plc,naty.begin@hotmail.com,20, - ,2, - ,300, - ,300,300, - ,8,Premium,8,12345,98760,12838.8,111599
+132,23/02/2018,23/02/2018,corporate,Natasha Begin,PowerShares Dividend Achievers Portfolio,naty.begin@hotmail.com,20, - ,2, - ,300, - ,300,300, - ,8,Premium,8,12345,98760,12838.8,111599
+133,24/02/2018,24/02/2018,commercial,Kirk Muller ,"NextEra Energy, Inc.",Kirk@gmail.com,77, - ,7,777,7777,7, - , - , - ,7,Standard,7,7565,52955,5295.5,58250.5
+134,27/02/2018,27/02/2018,corporate,Isabelle Coutu,"Pinnacle Entertainment, Inc.",coutuisabelle@live.ca,8, - ,1, - ,670, - ,35,501, - ,5,Excelium,5,15400,77000,12320,89320
+135,4/3/2018,4/3/2018,commercial,Juan Graciano,ENDRA Life Sciences Inc.,juan.g@gmail.com,25, - ,6,200,250,4, - , - , - ,4,Excelium,4,15400,61600,9856,71456
+136,13/03/2018,13/03/2018,hybrid,Scott Scottish,ON Semiconductor Corporation,scott@gmail.com,2,2,2, - , - , - , - , - , - ,1,Excelium,1,15400,15400,2464,17864
+137,14/03/2018,14/03/2018,commercial,Boris Lavertus,Sotherly Hotels Inc.,blavert@gmail.com,54, - ,3,157,182, - , - , - , - , - ,Excelium, - ,15400, - , - , - 
+138,18/03/2018,18/03/2018,corporate,Lady Gaga,A.H. Belo Corporation,ladygaga@badromance.com,5, - ,1, - ,340, - ,5,456, - ,3,Excelium,3,15400,46200,7392,53592
+139,20/03/2018,20/03/2018,hybrid,Michel  Louvin,"Catalyst Pharmaceuticals, Inc.",mimi@gmail.com,2,12,2, - , - , - , - , - , - ,1,Standard,1,7565,7565,756.5,8321.5
+140,26/03/2018,26/03/2018,hybrid,Anita Oliveras,KLX Inc.,TheodoreSAbraham@cuvox.de,5, - ,1,32,500, - , - ,400, - ,3,Premium,3,12345,37035,4814.55,41849.6
+141,27/03/2018,27/03/2018,hybrid,Chad Sun,MFS Charter Income Trust,KristenKClay@superrito.com,17, - ,3,200,250,4, - , - , - ,4,Excelium,4,15400,61600,9856,71456
+142,29/03/2018,29/03/2018,commercial,Suzanne Charbonneau,"Codexis, Inc.",NedNThomas@einrot.com,67, - ,5,154,1102, - , - ,300, - ,24,Premium,24,12345,296280,38516.4,334796
+143,31/03/2018,31/03/2018,corporate,Charles Mullis,"Rockwell Automation, Inc.",DeloresCEmmer@fleckens.hu,10,400,4, - , - , - , - , - , - ,7,Standard,7,7565,52955,5295.5,58250.5
+144,1/4/2018,1/4/2018,commercial,Randal Moss,"Nike, Inc.",HelenGMills@armyspy.com,5,48,2, - , - , - , - , - , - ,2,Standard,2,7565,15130,1513,16643
+145,2/4/2018,2/4/2018,hybrid,Kate Miner,"Westar Energy, Inc.",DavidSTaylor@fleckens.hu,5, - ,3,60,200, - , - ,44, - ,1,Premium,1,12345,12345,1604.85,13949.8
+146,2/4/2018,2/4/2018,residential,Susan Hansen,Alliance National Municipal Income Fund Inc,RachellePBerry@teleworm.us,20,400,4, - , - , - , - , - , - ,4,Premium,4,12345,49380,6419.4,55799.4
+147,5/4/2018,5/4/2018,commercial,Ryan Merrill,"Texas Capital Bancshares, Inc.",JoseLReed@cuvox.de,8, - ,2, - ,890, - ,56,678, - ,7,Excelium,7,15400,107800,17248,125048
+148,13/04/2018,13/04/2018,commercial,Jean Farnsworth,"AeroVironment, Inc.",MariaDLeary@fleckens.hu,20, - ,2, - ,200, - ,250,200, - ,6,Premium,6,12345,74070,9629.1,83699.1
+149,19/04/2018,19/04/2018,hybrid,Joe Beeman,"FCB Financial Holdings, Inc.",WilmaWWilmot@gustr.com,30, - ,4,88,4,5, - , - , - ,5,Standard,5,7565,37825,3782.5,41607.5
+150,24/04/2018,24/04/2018,corporate,Donald Campbell,"Grifols, S.A.",BennettMQuinlan@teleworm.us,64, - ,2,54,298,18, - , - , - ,18,Excelium,18,15400,277200,44352,321552
+151,27/04/2018,27/04/2018,corporate,Jonathan Park,"PS Business Parks, Inc.",JustinTThompson@gustr.com,15,300,2, - , - , - , - , - , - ,4,Premium,4,12345,49380,6419.4,55799.4
+152,29/04/2018,29/04/2018,hybrid,Todd Unger,FORM Holdings Corp.,LouisTDay@jourrapide.com,3,2,1, - , - , - , - , - , - ,1,Standard,1,7565,7565,756.5,8321.5
+153,30/04/2018,30/04/2018,commercial,Joe Dodge,F.N.B. Corporation,CheryRRogers@dayrep.com,2, - ,1,8,30, - , - ,30, - ,1,Excelium,1,15400,15400,2464,17864
+154,4/5/2018,4/5/2018,hybrid,Theodore Abraham,New Home Company Inc. (The),TomVGreen@armyspy.com,12, - ,4,200,300,4, - , - , - ,4,Premium,4,12345,49380,6419.4,55799.4
+155,8/5/2018,8/5/2018,commercial,Kristen Clay,Federal Agricultural Mortgage Corporation,MillieCRybicki@superrito.com,24, - ,5,83,670, - , - ,320, - ,10,Standard,10,7565,75650,7565,83215
+156,9/5/2018,9/5/2018,hybrid,Ned Thomas,"TC PipeLines, LP",MaJDaye@superrito.com,36,680,5, - , - , - , - , - , - ,8,Excelium,8,15400,123200,19712,142912
+157,10/5/2018,10/5/2018,corporate,Delores Emmer,"Aoxin Tianli Group, Inc.",PhyllisRWard@jourrapide.com,16, - ,4,300,300,3, - , - , - ,3,Premium,3,12345,37035,4814.55,41849.6
+158,10/5/2018,10/5/2018,corporate,Helen Mills,"C.R. Bard, Inc.",PatrickMHill@fleckens.hu,14, - ,4,540,1120, - , - ,500, - ,9,Premium,9,12345,111105,14443.7,125549
+159,11/5/2018,11/5/2018,corporate,David Taylor,Stratus Properties Inc.,LindaDBarrett@rhyta.com,20, - ,5,300,400, - , - ,400, - ,10,Premium,10,12345,123450,16048.5,139498
+160,12/5/2018,12/5/2018,corporate,Rachelle Berry,Voya Natural Resources Equity Income Fund,WilliamJRoberts@cuvox.de,72, - ,5, - ,1486, - ,85,412, - ,32,Premium,32,12345,395040,51355.2,446395
+161,13/05/2018,13/05/2018,corporate,Jose Reed,Fifth Street Senior Floating Rate Corp.,VeronicaRAble@einrot.com,1,3,0, - , - , - , - , - , - ,1,Premium,1,12345,12345,1604.85,13949.8
+162,20/05/2018,20/05/2018,corporate,Maria Leary,"Emergent Biosolutions, Inc.",RaquelRSmith@cuvox.de,17, - ,5, - ,749, - ,7,820, - ,20,Premium,20,12345,246900,32097,278997
+163,25/05/2018,25/05/2018,hybrid,Wilma Wilmot,BB&T Corporation,AnnetteHWhitley@armyspy.com,14,200,2, - , - , - , - , - , - ,3,Excelium,3,15400,46200,7392,53592
+164,27/05/2018,27/05/2018,hybrid,Bennett Quinlan,Pingtan Marine Enterprise Ltd.,KarenLMoorhead@dayrep.com,1,4,0, - , - , - , - , - , - ,1,Excelium,1,15400,15400,2464,17864
+165,31/05/2018,31/05/2018,hybrid,Justin Thompson,Calamos Global Dynamic Income Fund,JonathanMManning@superrito.com,13,400,2, - , - , - , - , - , - ,6,Standard,6,7565,45390,4539,49929
+166,2/6/2018,2/6/2018,hybrid,Louis Day,"GNC Holdings, Inc.",WilliamBDeherrera@teleworm.us,2, - ,1, - ,1238, - ,145,2100, - ,7,Excelium,7,15400,107800,17248,125048
+167,4/6/2018,4/6/2018,hybrid,Chery Rogers,"Kayne Anderson Midstream Energy Fund, Inc",DavidJHuskey@superrito.com,2,6,1, - , - , - , - , - , - ,1,Standard,1,7565,7565,756.5,8321.5
+168,7/6/2018,7/6/2018,commercial,Tom Green,"Colony NorthStar, Inc.",ErnestMHafley@einrot.com,12,300,3, - , - , - , - , - , - ,5,Excelium,5,15400,77000,12320,89320
+169,13/06/2018,13/06/2018,hybrid,Millie Rybicki,PowerShares Global Water Portfolio,SeanHSkillings@gustr.com,65, - ,4,128,453, - , - ,124, - ,12,Standard,12,7565,90780,9078,99858
+170,18/06/2018,18/06/2018,hybrid,Ma Daye,Nuveen Municipal 2021 Target Term Fund,DavidHBrooks@rhyta.com,69, - ,6,69,6969, - , - ,696, - ,56,Premium,56,12345,691320,89871.6,781192
+171,23/06/2018,23/06/2018,hybrid,Phyllis Ward,Royal Bank Scotland plc (The),WilliamNDrysdale@fleckens.hu,12, - ,2,300,350, - , - ,300, - ,5,Excelium,5,15400,77000,12320,89320
+172,25/06/2018,25/06/2018,corporate,Patrick Hill,"Selective Insurance Group, Inc.",WilliamPBowers@cuvox.de,15, - ,2,60,386,2, - , - , - ,2,Premium,2,12345,24690,3209.7,27899.7
+173,26/06/2018,26/06/2018,corporate,Linda Barrett,"Groupon, Inc.",StanleyDRosenstein@einrot.com,20,400,4, - , - , - , - , - , - ,4,Premium,4,12345,49380,6419.4,55799.4
+174,27/06/2018,27/06/2018,commercial,William Roberts,Canadian Solar Inc.,PaulFRhem@rhyta.com,34, - ,7,29,749,5, - , - , - ,5,Premium,5,12345,61725,8024.25,69749.2
+175,3/7/2018,3/7/2018,corporate,Veronica Able,HSBC Holdings plc,BarbaraRDoggett@armyspy.com,44, - ,4,155,55, - , - ,55, - ,3,Premium,3,12345,37035,4814.55,41849.6
+176,11/7/2018,11/7/2018,commercial,Raquel Smith,DURECT Corporation,RaulPBuckner@teleworm.us,26,75,3, - , - , - , - , - , - ,2,Excelium,2,15400,30800,4928,35728
+177,22/07/2018,22/07/2018,hybrid,Annette Whitley,"Westar Energy, Inc.",LyndaTFerrel@dayrep.com,25,400,3, - , - , - , - , - , - ,6,Excelium,6,15400,92400,14784,107184
+178,6/8/2018,6/8/2018,commercial,Karen Moorhead,"DHT Holdings, Inc.",JamesJMorel@gustr.com,15, - ,4,35,870,7, - , - , - ,7,Excelium,7,15400,107800,17248,125048
+179,6/8/2018,6/8/2018,corporate,Jonathan Manning,Pimco New York Municipal Income Fund II,ScottMHall@gustr.com,400, - ,5,300,400, - , - ,350, - ,147,Premium,147,12345,1814720,235913,2050630
+180,13/08/2018,13/08/2018,hybrid,William Deherrera,Yelp Inc.,MarkWPrice@fleckens.hu,9, - ,2, - ,548, - ,38,560, - ,7,Standard,7,7565,52955,5295.5,58250.5

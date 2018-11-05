@@ -1,0 +1,6 @@
+
+
+- pour quotes et users on ne va pas transférer tous no tests. nous allosn simplement utiliser la liste que nicolas nous a envoyé.
+
+-  comande pour start le server : bundle exec cap development deploy
+

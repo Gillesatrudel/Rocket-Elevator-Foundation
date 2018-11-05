@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+       /* Set the size of the div element that contains the map */
+      #map {
+        height: 90%;  /* The height is 400 pixels */
+        width: 100%;  /* The width is the width of the web page */
+       }
+    </style>
+  </head>
+  <body>
+    <h3 style="text-align:center; font-weight:bolder">Customers</h3>
+    <!--The div element for the map -->
+    <div id="map"></div>
+    <script>
+// Initialize and add the map
+function initMap() {
+    // The map, centered in america
+    var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 5,
+        center: {
+            lat: 41.48,
+            lng: -93.72
+        }
+    });
+
+  // Display all the markers in the map and their infowindow
+    <% @marks.each do |location| %>
+            var marker = new google.maps.Marker({
+                position: {lat: <%= location[:lat] %>, lng: <%= location[:lng] %>},
+                map: map
+            });
+            var contentString = '<div id="content">'+
+            '<div id="siteNotice">'+
+            `</div>`+
+            `<h2 id="firstHeading" class="firstHeading"><%= location[:name] %></h2>`+
+            '<div id="bodyContent">'+
+            `<p><b>Address: </b><%= location[:address] %></br>` +
+            `<p><b>Number of floors: </b><%= location[:floors] %></br>` +
+            `<p><b>Batteries: </b><%= location[:batteries] %></br>` +
+            `<b>Columns: </b><%= location[:columns] %></br>`+
+            `<b>Elevators: </b><%= location[:elevators] %></br>`+
+            `<b>Technical contact: </b><%= location[:tech_name] %></br>`+
+            '</div>'+
+            '</div>';
+
+            marker.info = new google.maps.InfoWindow({
+                content: contentString
+            });
+            var previous = false;
+            marker.addListener('click', function() {
+                if(previous) {
+                    previous.close()
+                }
+                previous = this.info;
+                this.info.open(map, this);
+            });
+    <% end %>
+
+
+}
+    </script>
+    <!--Load the API from the specified URL
+    * The async attribute allows the browser to render the page while the API loads
+    * The key parameter will contain your own API key (which is not needed for this tutorial)
+    * The callback parameter executes the initMap() function
+    -->
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDK7Wt1N58j9EqgnLueBVoieJkotkKtLpg&callback=initMap">
+    </script>
+  </body>
+</html>

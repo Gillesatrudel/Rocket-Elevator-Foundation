@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    attachments.inline['R2.png'] = File.read("#{Rails.root}/app/assets/images/R2.png")
+    <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+  </head>
+  <body>
+    <h1>Welcome to rocketelevators.ca, <%= @user.name %></h1>
+    <p>
+      You have successfully signed up to rocketelevators.ca,
+      your username is: <%= @user.login %>.<br>
+    </p>
+    <p>
+      To login to the site, just follow this link: <%= @url %>.
+    </p>
+    <p>Thanks for joining and have a great day!</p>
+  </body>
+</html>

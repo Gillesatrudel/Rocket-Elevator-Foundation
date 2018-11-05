@@ -1,0 +1,229 @@
+
+
+		
+		
+
+        <!-- PORTFOLIO -->
+		<section id="work" style="padding-top: 50px" >
+			<div class="container" style="width: auto" >
+
+				<div class="heading-title heading-dotted text-center">
+					<h2>Type of Project</h2>
+				</div>
+
+
+				<div class="text-center">
+					<ul class="nav nav-pills mix-filter mb-60">
+						<li id='residential' data-filter="residential" class="filter"  value="Residential"><a href="#">Residential</a></li>
+						<li id='commercial' data-filter="commercial" class="filter"  value="Residential"><a href="#">Commercial</a></li>
+						<li id='corporate' data-filter="corporate" class="filter"  value="Corporate"><a href="#">Corporate</a></li>
+						<li id='hybrid' data-filter="hybrid" class="filter"  value="Hybrid"><a href="#">Hybrid</a></li>
+					</ul>
+				</div>
+			</div>
+        
+				<div class="container global_" >
+
+					<div class="row mix-grid">
+
+						<div class="col-md-12 col-sm-9">
+
+
+							<!-- Useful Elements -->
+							<div class="card card-default">
+								<div class="card-heading card-heading-transparent">
+									<h2 class="card-title">Your Quote</h2>
+								</div>
+
+								<div class="card-block">
+
+									<form id="my_form"  action="/new_quote" method="post" enctype="multipart/form-data" data-success="Sent! Thank you!"
+									 data-toastr-position="top-right">
+										<fieldset>
+
+											<div class="row">
+												
+											    <div class="col-md-4 col-sm-6 mix residential commercial corporate hybrid">
+											        <label>First Name *</label>
+											        <input type="text" name="quote[full_name]" value="" class="form-control required" id="first name">
+										        </div>												
+										        <div class="col-md-4 col-sm-6 mix residential commercial corporate hybrid">
+											        <label>Last Name *</label>
+											        <input type="text" name="quote[business_name]" value="" class="form-control required" id="last name">
+										        </div>
+										        <div class="col-md-4 col-sm-6 mix residential commercial corporate hybrid">
+												    <label>Email *</label>
+												    <input type="text" name="quote[email]" value="" class="form-control required" id="email">
+										        </div>
+												
+												<div class="col-md-4 col-sm-6 mix residential">
+													<label>N. of Appartements *</label>
+													<input type="number" name="quote[nb_apt]" value="" class="form-control required" id="numApp">
+												</div>												
+												<div class="col-md-4 col-sm-6 mix residential commercial corporate hybrid">
+													<label>N. of Floors *</label>
+													<input type="number" name="quote[nb_floors]" value="" class="form-control required" id="numFloors">
+												</div>
+												<div class="col-md-4 col-sm-6 mix residential commercial corporate hybrid">
+													<label>N. of Basements *</label>
+													<input type="number" name="quote[nb_base]" value="" class="form-control required" id="numBase">
+												</div>
+												
+												<div class="col-md-4 col-sm-6 mix commercial hybrid">
+													<label>N. of Companies *</label>
+													<input type="number" name="quote[nb_cies]" value="" class="form-control required" id="numComp">
+												</div>
+												<div class="col-md-4 col-sm-6 mix commercial corporate hybrid">
+													<label>N. of Parking Spots *</label>
+													<input type="number" name="quote[nb_parking]" value="" class="form-control required" id="numPark">
+												</div>
+												<div class="col-md-4 col-sm-6 mix commercial">
+													<label>N. of Elevator Shaft *</label>
+													<input type="number" name="quote[nb_shaft]" value="" class="form-control required" id="numElev">
+												</div>
+												<div class="col-md-4 col-sm-6 mix corporate">
+													<label>N. of Corporations *</label>
+													<input type="number" name="quote[nb_corp]" value="" class="form-control required" id="numCorpo">
+												</div>
+												<div class="col-md-4 col-sm-6 mix corporate hybrid">
+													<label>Max Occ. per Floor *</label>
+													<input type="number" name="quote[nb_person]" value="" class="form-control required" id="maxOcc">
+												</div>
+												<div class="col-md-4 col-sm-6 mix hybrid">
+													<!-- select2 -->
+
+
+
+													<label>Business Hours *</label>
+													<div class="fancy-form fancy-form-select">
+														<select class="form-control select2">
+															<option value="">--- Select ---</option>
+															<option value="1">1 hour</option>
+															<option value="2">2 hours</option>
+															<option value="3">3 hours</option>
+															<option value="4">4 hours</option>
+															<option value="5">5 hours</option>
+															<option value="6">6 hours</option>
+															<option value="7">7 hours</option>
+															<option value="8">8 hours</option>
+															<option value="9">9 hours</option>
+															<option value="10">10 hours</option>
+															<option value="11">11 hours</option>
+															<option value="12">12 hours</option>
+															<option value="13">13 hours</option>
+															<option value="14">14 hours</option>
+															<option value="15">15 hours</option>
+															<option value="16">16 hours</option>
+															<option value="17">17 hours</option>
+															<option value="18">18 hours</option>
+															<option value="19">19 hours</option>
+															<option value="20">20 hours</option>
+															<option value="21">21 hours</option>
+															<option value="22">22 hours</option>
+															<option value="23">23 hours</option>
+															<option value="24">24 hours</option>
+														</select>
+
+
+
+														<i class="fancy-arrow-"></i>
+													</div>
+
+												<div class="col-md-4 col-sm-6 mix">
+													<input type="hidden" name="quote[quote_type]" value="" class="form-control required" id="type">
+												</div>	
+
+												</div>
+
+												<div class="col-md-12 col-sm-12 mix residential commercial corporate hybrid">
+													<label>Required Elevators</label>
+													<input type="text" name="quote[req_elev]" value="" class="form-control required" id="numElev_3">
+												</div>
+
+												<div class="col-md-12 col-sm-12 mix residential commercial corporate hybrid">
+													<!-- checkbox -->
+													<div class="card-heading card-heading-transparent" style="padding-left:0" style="padding-top:20px">
+														<h2 class="card-title">Select a range</h2>
+													</div>
+
+													<!-- radio -->
+													<label class="radio">
+														<input type="radio" name="quote[option]" value="Standard" id="standard">
+														<i></i> Standard
+													</label>
+
+													<label class="radio">
+														<input type="radio" name="quote[option]" value="Premium" id="premium">
+														<i></i> Premium
+													</label>
+
+													<label class="radio">
+														<input type="radio" name="quote[option]" value="Excelium" id="excelium">
+														<i></i> Excelium
+													</label>
+
+												</div>
+
+												<div class="col-md-12 col-sm-12 mix residential commercial corporate hybrid">
+													<!-- checkbox -->
+													<div class="card-heading card-heading-transparent" style="padding-left:0" style="padding-top:20px">
+														<h2 class="card-title">Your Estimation</h2>
+													</div>
+												</div>
+
+												<div class="col-md-3 col-sm-12 mix residential commercial corporate hybrid">
+													<label>N. of Elevator</label>
+													<input type="text" name="quote[nb_elev]" value="" class="form-control required" id="numElev_2">
+												</div>
+
+												<div class="col-md-3 col-sm-12 mix residential commercial corporate hybrid">
+													<label>Unit Price ($)</label>
+													<input type="text" name="quote[price_per_elev]" value="" class="form-control required" id="elevPriceUnit">
+												</div>
+
+												<div class="col-md-3 col-sm-12 mix residential commercial corporate hybrid">
+													<label>Elevators Total ($)</label>
+													<input type="text" name="quote[elev_total]" value="" class="form-control required" id="elevTotal">
+												</div>
+
+												<div class="col-md-3 col-sm-12 mix residential commercial corporate hybrid">
+													<label>Installation ($)</label>
+													<input type="text" name="quote[cost_install]" value="" class="form-control required" id="installationFee">
+												</div>
+
+												<div class="col-md-3 col-sm-12 mix residential commercial corporate hybrid">
+													<label>Total ($)</label>
+													<input type="text" name="quote[total]" value="" class="form-control required" id="total_">
+												</div>
+
+											</div>
+
+										</fieldset>
+									<button id="submitbutton" class="btn btn-submit btn-lg" type="submit">SUBMIT QUOTE &nbsp; <i class="fa fa-angle-right"></i></button>
+                                    </form>
+                                    
+								</div>
+						  </div>
+					   </div>
+				    </div>
+                </div>
+			</section>
+			<!-- / -->
+
+			<script>
+				$("#my_form").submit(function(event){
+					event.preventDefault(); //prevent default action 
+					var post_url = $(this).attr("action"); //get form action url
+					var request_method = $(this).attr("method"); //get form GET/POST method
+					var form_data = $(this).serialize(); //Encode form elements for submission
+					
+					$.ajax({
+						url : post_url,
+						type: request_method,
+						data : form_data
+					}).done(function(response){ //
+						alert('YOUR SUBMISSION HAVE BEEN RECEIVED');
+						window.location="/";
+					});
+				});
+			</script>

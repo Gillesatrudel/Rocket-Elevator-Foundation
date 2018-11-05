@@ -1,0 +1,123 @@
+1. Expension du shéma MySql et section ADMIN
+	- Ajouter la table LEADS a ADMIN (form contact)
+	- AJouter une table addresse
+	- Ajouter une table customers
+	- Ajouter une table Buildings
+	- Ajouter une table BuildingsDetails
+	- Ajouter une table Batteries
+	- Ajouter une table Columns
+	- Ajouter une table Elevators
+
+2. Créer et injecter des données fictives pour alimenter les table relationnelles
+
+3. Extraction des données vers les tables d'un entrepôt de données décisionnel
+
+4. Répondres aux 3 questions (Nb demandes de contact par mois, nb soumissions, nb ascenceurs par client)
+
+5. Bonus graphique 
+
+
+Présentation mardi matin:
+- 10 contacts par mois pour les 2 dernieres années (Trouver sur google comment inventer des données (Des sites font ca))
+
+- decisionnel: entrepot de données 
+
+- Questions:
+	- Pas besoin de rien ajouter au formulaire
+	- Attribuable à la forme snowflake (entrepot de données)
+
+	- 
+
+teams:
+	- Dave et PO
+	- Luna et Steve
+
+Plan pour mercredi:
+
+- Table FactQuotes:
+	QuoteId
+	Date de Création
+	Nom de l’entreprise
+	Email
+	NbElevators
+
+- Table FactContact:
+	ContactId
+	Date de Création
+	Nom de l’entreprise
+	Email
+	Nom du projet
+
+- Table FactElevator:
+	ElevatorId
+	SerialNumber
+	Date de Mise en Service
+	BuildingId
+	CustomerId
+	Ville du Building
+
+- Table DimCustomers:
+	Date de Création
+	Nom de l’entreprise
+	Full Name du contact de l’entreprise
+	Email du contact de l’entreprise 
+	NbElevators
+	Ville du Client
+
+
+
+tous les elevators qui appartiennent a cette column
+
+SELECT elevators,
+FROM columns
+WHERE elevator.column_id= column_id;
+
+
+SELECT COUNT(batteries), building_id
+
+FROM batteries
+
+WHERE batteries.building_id = building_id
+
+SELECT COUNT(columns), battery_id
+
+FROM columns
+
+WHERE columns.battery_id = battery_id;
+
+
+SELECT elevators,
+FROM columns
+WHERE elevator.column_id= column_id;
+
+
+SELECT count(elevators.id), column_id
+
+FROM elevators
+
+group by column_id;
+
+
+elevator: 500    3.3557047
+colonnes: 149    1.61073826   
+batteries: 240   2
+building: 480    3.2
+clients: 150   -> 34.52 elevators par client
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

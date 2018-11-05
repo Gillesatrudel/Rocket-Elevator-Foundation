@@ -1,0 +1,15 @@
+@import 'bootstrap.min';
+@import 'extralayers';
+@import 'settings';
+@import 'essentials';
+@import 'layout';
+@import 'media';
+@import 'header-1';
+@import 'color_scheme/darkblue';
+
+
+.container {
+    width: 100%;
+    max-width: 100%;
+}
+

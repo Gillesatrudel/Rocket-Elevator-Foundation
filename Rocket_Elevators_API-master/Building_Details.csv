@@ -1,0 +1,38 @@
+Information key,Value,Id
+Built_Year,2017,1
+Number of Floors,7,1
+Max Occupency,656,2
+Architecture,Beaux Arts,3
+Built_Year,1999,3
+Architecture,Italianate,4
+Max Occupency,900,4
+Architecture,Postmodern,5
+Number of Floors,200,5
+Construction Company,Bird Construction,5
+Electricity Company,Ontario Electrical Construction Company,6
+Architecture,Art Deco,6
+Built_Year,1834,7
+Construction Company,Ledcor Group,8
+Architecture,Art Nouveau,8
+Internet provider,Videotron,9
+Architecture,Bauhaus,10
+Number of Floors,12,12
+Built_Year,1945,12
+Architecture,Futurism,13
+Architecture,Constructivism,14
+Construction Company,EllisDon,14
+Number of Floors,87,14
+Max Occupency,2000,15
+Architecture,Expressionism,16
+Construction Company,Thor Companies,18
+Internet provider,Bell,18
+Electricity Company,Great Canadian Electrical Company,19
+Construction Company,IBCC Inc,20
+Internet provider,CCAP Cable,20
+Electricity Company,Electrical Contractors,20
+Max Occupency,345,21
+Construction Company,PCL Construction,21
+Built_Year,1687,22
+Electricity Company,"CEL Electric Home, Emery Electric Ltd",23
+Built_Year,1992,23
+Construction Company,Surespan,23
